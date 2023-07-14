@@ -15,6 +15,6 @@ reportWebVitals();
 
 
 /*  Documentation
-// Index.js is the entry point of our react.js application
+Index.js is the entry point of our react.js application
 
 */
