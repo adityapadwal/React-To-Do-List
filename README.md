@@ -5,7 +5,6 @@ This is a simple To-Do application built using React.js. The application allows 
 
 Key Features
 1. useState Hook: The application uses the useState Hook to manage the state of the to-do list. It allows for easy updating and manipulation of the tasks without directly modifying the underlying data.
-
 1. useEffect Hook: The useEffect Hook is utilized to handle side effects in the application. It is used to retrieve and store the to-do list in the internal storage, ensuring that the data persists even after the application is refreshed or reopened.
 
 3. React Router: The application leverages the power of React Router to enable navigation between different views. It utilizes the BrowserRouter component and the Link component to create a multi-page experience within a single-page application.
@@ -14,3 +13,6 @@ Key Features
 
 5. Internal Storage: The to-do list is stored internally within the application. This means that the data is not reliant on an external server or database. It is stored in the browser's localStorage or sessionStorage, allowing users to maintain their to-do list even when the application is closed or the browser is restarted.
 
+Images
+![tdl1](https://github.com/adityapadwal/React-To-Do-List/assets/97524745/943683d6-77df-4187-8507-1dde10fe607e) <br />
+![tdl2](https://github.com/adityapadwal/React-To-Do-List/assets/97524745/67d6449e-85b3-4e71-a8c5-e0d04b4797c7)
